@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @http.carlosh1 minha rede social 
+- 👋 Hi, I’m Carlos Henrique
 - 👀 I’m interested in ... ser um desenvolvedor web
-- 🌱 I’m currently learning ...   PHP, BD
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...   PHP, BD, HTML, JS, C
+- 💞️ I’m looking to collaborate on ... full stack
 - 📫 How to reach me ...  carloshenriqueh08@hotmail.com
 
 <!---
