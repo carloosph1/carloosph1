@@ -1,4 +1,4 @@
-#- 👋 Hi, I’m Carlos Henrique
+#👋 Hi, I’m Carlos Henrique
 - 👀 I’m interested in ... be a web developer
 - 🌱 I’m currently learning ...   PHP, MySQL, JS, C, python
 - 💞️ I’m looking to collaborate on ... full stack
